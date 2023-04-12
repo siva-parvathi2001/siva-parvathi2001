@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full stack development 
 -📫 How to reach me 
       Email:sivaparvathi2k1@gmail.com
+-💻 MCA final sem persuring
 
 
 <!---
