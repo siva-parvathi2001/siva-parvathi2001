@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siva-parvathi2001
-- 👀 I’m interested in Data analysis and python
+- 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning Full stack development 
 -📫 How to reach me 
       Email:sivaparvathi2k1@gmail.com
